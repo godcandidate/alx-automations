@@ -1,1 +1,1 @@
-README.md for this dir
+README.md for this directory
